@@ -5,3 +5,5 @@ pythonic garage band
 Osama Maher
 # to run tests use this command 
 pytest
+# pull request 
+[my pull request](https://github.com/osamadado123/pythonic-garage-band/pull/2)
